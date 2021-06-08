@@ -44,7 +44,7 @@
     "strip-loader": "0.1.2",
     "text-blob-builder": "0.0.1",
     "webpack": "^4.5.0",
-    "webpack-cli": "^2.0.14"
+    "webpack-cli": "^4.7.2"
   },
   "scripts": {
     "build-dev": "webpack --optimize-minimize --config webpack.config.dev.js",
